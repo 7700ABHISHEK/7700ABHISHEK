@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development 
 - 🌱 I’m currently learning Front-end web development
 - 💞️ I’m looking to collaborate on LinkedIn
-- 📫 How to reach me Through email "7700.Abhishekdubey02"
+- 📫 How to reach me Through email "7700.Abhishekdubey02@gmail.com"
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
