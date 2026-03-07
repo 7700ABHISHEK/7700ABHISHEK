@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @7700ABHISHEK
-- 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning Front-end web development
+- 👋 Hi, I’m ABHISHEK DUBEY, DSA Enthusiast
+- 👀 I’m interested in Web Development and problem solving
+- 🌱 Currently i'm a MERN stack developer looking for better opportunity
 - 💞️ I’m looking to collaborate on LinkedIn
 - 📫 How to reach me Through email "7700.Abhishekdubey02@gmail.com"
 - 😄 Pronouns: ...
